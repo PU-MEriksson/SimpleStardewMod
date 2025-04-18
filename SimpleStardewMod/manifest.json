@@ -1,0 +1,11 @@
+{
+  "Name": "SimpleStardewMod",
+  "Author": "Malin",
+  "Version": "1.0.0",
+  "Description": "A simple Stardew Valley mod for learning purposes.",
+  "UniqueID": "Malin.SimpleStardewMod",
+  "EntryDll": "SimpleStardewMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": null
+}
