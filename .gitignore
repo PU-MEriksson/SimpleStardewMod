@@ -1,0 +1,18 @@
+# Rider and .NET
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+.vs/
+
+# Systemfiles
+.DS_Store
+Thumbs.db
+
+# Backupfiles
+*.bak
+*.tmp
+*.log
